@@ -1,0 +1,189 @@
+/*.App {
+  text-align: center;
+}*/
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  position: relative;
+
+  /*display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);*/
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+
+
+body{
+  background-color: #505661;
+  color: white;
+}
+
+
+.business-card{
+  width: 400px;
+  margin: auto;
+  border-radius: 15px 15px 0 0;
+  background-color: #171a1f;
+  border: 2px solid #282c34;
+}
+
+.my-image {
+  width: 400px;
+  height: 350px;
+  border-radius: 15px 15px 0 0;
+}
+
+
+.info {
+  text-align: center;
+}
+
+.name {
+  margin-top: 20px;
+  font-size: 2rem;
+  margin-bottom: 6px;
+  font-weight: 700;
+}
+
+.skill {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-bottom: 8px;
+  color: rgb(155, 108, 108);
+}
+
+.website {
+  text-decoration: none;
+  color: white;
+}
+
+.socials {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: 5px;
+  display: flex;
+}
+
+.email {
+  width: 50%;
+  font-size: 1.2rem;
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin-right: 15px;
+}
+
+.link {
+  width: 50%;
+  background-color: rgb(77, 77, 245);
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 1.2rem;
+}
+
+
+.about {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.about-h2 {
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.interest {
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.paragraph-two {
+  margin-bottom: 2rem;
+}
+
+#in {
+  background: white;
+  color: blue;
+  margin-right: 2px;
+  padding: 0.9px;
+  font-size: 0.9rem;
+}
+
+#envelope {
+  font-size: medium;
+  margin-right: 2px;
+}
+
+.handles {
+  display: flex;
+  height: 4rem;
+  background-color: #0a0c11;
+  justify-content: center;
+  font-size: 2rem;
+  align-items: center;
+}
+
+.handles div{
+  margin: 1rem 25px;
+}
+
+
+/*.page-top{
+  display: flex;
+  align-items: center;
+  border: 1px solid red;
+  padding: 0px;
+  justify-content: space-between;
+}
+
+.page-top > .link-list{
+  display: flex;
+  list-style-type: none;
+  width: 40%;
+  justify-content: space-around;
+
+}
+
+.logo{
+  font-size: 2rem;
+  margin-left: 4%;
+}
+
+@media screen  and (max-width:800px) {
+  .page-top > .link-list{
+    width: 60%;
+  }
+}*/
